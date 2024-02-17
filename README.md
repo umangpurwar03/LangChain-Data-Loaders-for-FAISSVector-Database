@@ -1,6 +1,6 @@
 # LangChain Data Loaders for FAISS Vector Database
 
-Welcome to the LangChain Data Loaders repository, a comprehensive solution for efficiently loading diverse data types into FAISS Vector databases. This repository contains specialized loaders for handling CSV, URL, YouTube transcript, Excel, and PDF data. Each loader is housed in a separate repository for modularity and easy integration. 
+Welcome to the Data Loaders repository, a comprehensive solution for efficiently loading diverse data types into FAISS Vector databases. This repository contains specialized loaders for handling CSV, URL, YouTube transcript, Excel, and PDF data. Each loader is housed in a separate repository for modularity and easy integration. 
 
 ## Table of Contents
 
